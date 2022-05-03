@@ -1,0 +1,6 @@
+.vscode
+/carbon-eduction/.env
+/carbon-eduction/node_modules
+/carbon-eduction/package-lock.json
+/carbon-eduction/artifacts
+/carbon-eduction/cache
